@@ -1,0 +1,54 @@
+.card {
+    /* min-height: 50vh; */
+    display: contents;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* background: hsl(137, 46%, 24%); */
+    font-family: "Poppins", sans-serif;
+    max-width: 33rem;
+    /* background: #fff; */
+    margin: 0 rem;
+    padding: 2rem;
+    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); */
+    /* width: 100%; */
+    /* border-radius: 0.5rem; */
+}
+
+.star {
+    padding: .15rem;
+    font-size: 4vh;
+    cursor: pointer;
+}
+
+.small-size {
+    font-size: 2vh;
+}
+
+.selected {
+    color: rgb(13, 0, 255);
+}
+
+.notSelected {
+    color: rgb(171, 171, 171);
+}
+
+.one {
+    color: rgb(255, 0, 0);
+}
+
+.two {
+    color: rgb(255, 106, 0);
+}
+
+.three {
+    color: rgb(251, 255, 120);
+}
+
+.four {
+    color: rgb(255, 255, 0);
+}
+
+.five {
+    color: rgb(24, 159, 14);
+}
